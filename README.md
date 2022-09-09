@@ -4,3 +4,4 @@ https://shogohirasawa.github.io/StarbucksCoffee_heatmap/
 
 ## data
 Reference (https://store.starbucks.co.jp/?keyword=&pref_code=5)
+geojson file (https://github.com/ShogoHirasawa/StarbucksCoffee_heatmap/blob/main/data/StarbucksCoffee.geojson)
